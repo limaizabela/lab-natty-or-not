@@ -2,25 +2,25 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
 
 Olá pessoal, sou Izabela, atualmente embaixadora da DIO! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO propôs conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 
 
-# Hey Iza
+# Metas ilustradas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto foi utilizado o potencial da IA generativa para criar um conjunto de ilustrações representando metas estudos e prática de atividade física, de maneira divertida e inspiradora.
 
 ## 🤖 Tecnologias Utilizadas
-HeyGen
+[NightCafe](https://creator.nightcafe.studio/)
 
 ## 🧐 Processo de Criação
-Neste processo está sendo usada uma artificial generativa que cria avatares fotorrealistas por meio de fotos e vídeos enviados pelo usuário. Além disso possui uma biblioteca de avatares e vozes pré-fabricados. O avatar digital pode recitar prompts em vários idiomas. Neste caso, escolhi português mesmo.
+Neste processo está sendo usada uma artificial generativa que cria ilustrações de acordo com prompts enviados pelo usuário. Além disso possui uma biblioteca de artes e estilos para inspiração. O usuário pode escolher o estilo da ilustração e gerar algumas imagens de forma gratuita.
 
 ## 🚀 Resultados
-Os resultados ainda serão apresentados, visto que ainda estou testando e voltarei a atualizar em breve
+![Metas ilustradas](https://github.com/user-attachments/assets/9d313668-c1a0-4f58-a8dc-357f2b4c2c29)
 
-## 💭 Reflexão (Opcional)
-O desafio de criar algo 'natty' com IA tem sido muito interessante, pois ainda não tinha me aprofundado neste mundo e os testes tem me surpreendido.
+
+## 💭 Reflexão 
+O desafio de criar algo 'natty' com IA tem sido muito interessante, pois ainda não tinha me aprofundado neste mundo e os testes tem me surpreendido. Criar ilustrações que representem as metas torna o processo mais divertido. 
